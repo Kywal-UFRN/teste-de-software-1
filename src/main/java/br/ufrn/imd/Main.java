@@ -1,10 +1,10 @@
 package br.ufrn.imd;
 
 
-import static br.ufrn.imd.parameterizedTesting.CalculoImposto.calculaImposto;
+import static br.ufrn.imd.parameterizedTesting.CalculoImposto.calculaImpostoRenda;
 
 public class Main {
     public static void main(String[] args) {
-        calculaImposto(200.5);
+        calculaImpostoRenda(200.5);
     }
 }
