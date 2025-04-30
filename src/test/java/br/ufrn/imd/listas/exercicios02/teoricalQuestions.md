@@ -62,3 +62,12 @@ por esses testes
 ser lançada. Se o `buffRead.close()` estiver fora do bloco try/catch e fora do finally e uma exceção for
 lançada o processo será interrompido e a conexão com o buffer continuará aberta, o que pode resultar
 em vulnerabilidades ou mal gerenciamento de memória.
+---
+### Questão 22
+- Alternativa d
+---
+### Questão 25
+- I -> Falso
+- II -> Verdade
+- III -> Verdade
+- IV -> Falso
