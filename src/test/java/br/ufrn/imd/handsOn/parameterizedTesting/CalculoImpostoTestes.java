@@ -1,4 +1,4 @@
-package br.ufrn.imd.parameterizedTesting;
+package br.ufrn.imd.handsOn.parameterizedTesting;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -6,7 +6,7 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
 
-import static br.ufrn.imd.parameterizedTesting.CalculoImposto.calculaImpostoRenda;
+import static br.ufrn.imd.handsOn.parameterizedTesting.CalculoImposto.calculaImpostoRenda;
 import static org.junit.Assert.assertEquals;
 
 

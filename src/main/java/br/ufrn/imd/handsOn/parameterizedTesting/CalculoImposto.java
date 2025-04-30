@@ -1,4 +1,4 @@
-package br.ufrn.imd.parameterizedTesting;
+package br.ufrn.imd.handsOn.parameterizedTesting;
 
 public class CalculoImposto {
 

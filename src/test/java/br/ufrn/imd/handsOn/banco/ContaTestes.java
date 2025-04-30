@@ -1,4 +1,4 @@
-package br.ufrn.imd.banco;
+package br.ufrn.imd.handsOn.banco;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

@@ -1,4 +1,4 @@
-package br.ufrn.imd.banco;
+package br.ufrn.imd.handsOn.banco;
 
 public class Conta {
 
