@@ -67,7 +67,9 @@ em vulnerabilidades ou mal gerenciamento de memória.
 - Alternativa d
 ---
 ### Questão 25
-- I -> Falso
-- II -> Verdade
+- I -> Verdade
+- II -> Falso: Não é na classe e sim no método.
 - III -> Verdade
-- IV -> Falso
+- IV -> Falso: É necessário instanciar o objeto como atributo da classe e 
+inicializar-lo em um método anotado com @BeforeEach para que a variável seja inicializada
+antes de cada teste e o contexto individual dos testes não seja corrompido.
