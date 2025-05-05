@@ -1,4 +1,4 @@
-package br.ufrn.imd.listas.exercicios02;
+package br.ufrn.imd.listas.exercicios02.questao16;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
