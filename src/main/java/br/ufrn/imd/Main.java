@@ -1,6 +1,5 @@
 package br.ufrn.imd;
 
-
 import static br.ufrn.imd.handsOn.parameterizedTesting.CalculoImposto.calculaImpostoRenda;
 
 public class Main {
